@@ -6,7 +6,7 @@ void house (){
    int y = 600*2/3; 
    int h = 600/5;
    setfillstyle(SOLID_FILL, COLOR(128,64,48));
-   bar(x,y,x+100,y+100);
+   bar(x,y,x+150,y+150);
    int v[] = {x-50, y, x+200/2, y-200/2,x+200, y};
    setcolor(RED);
    setfillstyle(SOLID_FILL, RED);
