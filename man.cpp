@@ -12,8 +12,8 @@ void man(){
    bar(440, 350, 450, 420);
    setfillstyle(SOLID_FILL, RED);
    bar(380, 350, 390, 420);
-   setfillstyle(SOLID_FILL, BLACK);
+   setfillstyle(SOLID_FILL, BLUE);
    bar(420, 450, 435, 530);
-   setfillstyle(SOLID_FILL, BLACK);
+   setfillstyle(SOLID_FILL, BLUE);
    bar(395, 450, 410, 530);
 }
